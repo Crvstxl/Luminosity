@@ -1,2 +1,0 @@
-# Luminosity
-UI
